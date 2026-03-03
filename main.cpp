@@ -12,8 +12,6 @@ int main(int argc, char* argv[]) {
     std::uniform_real_distribution<double> dist(0.0, 1.0);
 
 
-
-
 	std::cout << "Version: " << version() << std::endl;
 	std::cout << "Hello, world!" << std::endl;
 
